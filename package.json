@@ -3,6 +3,6 @@
 	"version": "1.0",
 	"type": "wordpress-plugin",
 	"require": {
-		"composer/installers": "v1.0.6"
+		"composer/installers": "*"
 	}
 }
