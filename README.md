@@ -1,7 +1,7 @@
 md5-on-upload
 =============
 
-WordPress plugin to change the file name to a md5 string. This will give your upload a better filename for cache busting.
+WordPress plugin to change the file name to a md5 string. This will help you avoid cache problems when uploading/updating images and files using a cdn.
 
 
 Installation
