@@ -1,7 +1,8 @@
 md5-on-upload
 =============
 
-WordPress plugin to change the file name to a md5 string. This is for preventing cdn cache
+WordPress plugin to change the file name to a md5 string. This will give your upload a better filename for cache busting.
+
 
 Installation
 -----------
@@ -19,10 +20,9 @@ After activation you should have md5-naming to all files.
 Contributing
 ------------
 
-1. Fork it.
-2. Create a branch (`git checkout -b my_markup`)
-3. Commit your changes (`git commit -am "Added my thing"`)
-4. Push to the branch (`git push origin my_markup`)
-5. Open a [Pull Request][1]
+1. Fork
+2. Create a branch `git checkout -b my_thing`
+3. Commit your changes `git commit -am "Added my thing"`
+4. Push to the branch `git push origin my_thing`
+5. Open a `Pull Request`
 6. Done
-
