@@ -1,5 +1,5 @@
 {
-	"name": "Sydsvenskan/md5-on-upload",
+	"name": "Sydsvenskan/sds-md5-on-upload",
 	"type": "wordpress-plugin",
 	"require": {
 		"composer/installers": "*"
