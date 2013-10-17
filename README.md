@@ -7,7 +7,7 @@ WordPress plugin to change the file name to a md5 string. This will help you avo
 Installation
 -----------
 
-1. Upload the `md5-on-upload` directory into your the `/wp-content/plugins/` dir
+1. Upload the `sds-md5-on-upload` directory into your the `/wp-content/plugins/` dir
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 
